@@ -3,6 +3,7 @@ Add here global page variables to use throughout your
 website.
 ------------------------------------------------------->
 @def author = "Septimia Zenobia"
+@def prepath = "testproj"
 
 <!-----------------------------------------------------
 Add here global latex commands to use throughout your

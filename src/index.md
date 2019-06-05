@@ -22,7 +22,7 @@ The [standard markdown syntax](https://github.com/adam-p/markdown-here/wiki/Mark
 * element with **bold**
 * element with _emph_
 
-or code-blocks `inline` or with highlighting (note the `@def hascode = true` in the source to allow [highlight.js](https://highlightjs.org/) to do its job):
+or code-blocks `inline` or with highlighting (note the `@def hascode = true` in the source to allow [highlight.js](https://highlightjs.org/) to do its job!):
 
 ```julia
 abstract type Point end
